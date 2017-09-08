@@ -1,0 +1,13 @@
+---
+title: "Homework 1"
+author: "Hanim Zul, Shafiqah Azman, Iffah, Lisa"
+date: "September 8, 2017"
+output: html_document
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+hello
+
+## R Markdown
+
