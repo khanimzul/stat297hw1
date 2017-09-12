@@ -9,11 +9,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-hello
 
-## R Markdown
 
-##Question 4
+##Introduction
+
+##Group Members
+<center>![Hanim](Capture.PNG){width=30%}</center>
+
+My name is Khadijah Hanim Zulhaimi. People normally called me Hanim. My hobbies are surfing internet, listen to music, and read fictional books. Fun fact 
+##R Markdown Syntax
 
 ##ii)
 ```{r}
