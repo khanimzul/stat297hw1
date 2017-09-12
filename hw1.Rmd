@@ -26,24 +26,36 @@ B=mean(x)
 C=var(x)
 ```
 
-#Empirical median of x is `r A`
-#Empirical mean of x is `r B`
-#Empirical variance of x is `r C`
+Empirical median of x is `r A`. 
+
+Empirical mean of x is `r B`. 
+
+Empirical variance of x is `r C`
+
+The empirical value of median, mean and variance of x are different from 0, 0 and 1.
+
+This result is not surprising as x is randomly generated from the standard normal distribution and hence the values of x are different from the standard normal distribution.
 
 ```{r}
 hist(x,  main = paste("Histogram of 100 random samples from a standard normal distribution" ))
 ```
 
-#The histogram of x is approximately symmetrical with bell-shaped. This histogram has similar shape as the histogram of a standard normal distribution with mean=0 and standard deviation=1.
+
+The histogram of x is approximately symmetrical with bell-shaped. This histogram has similar shape as the histogram of a standard normal distribution with mean=0 and standard deviation=1.
+
 
 $$
 \begin{aligned}
 \mathbb{E} [\mathrm{var}\{ v_1(\hat \theta, n) \}] &=  \mathrm{var}\{ v_1( \theta_0, n)\} 
-+ \mathbb{E} [\ O _p \{ \boldsymbol D_1 (\theta^*, n)(\hat \theta- \theta_0), ...,
-\boldsymbol D_p (\theta^*, n)(\hat \theta- \theta_0) \}] \\
-&=\mathrm{var}\{ v_1( \theta_0, n)\} + O(n^{-2})
++ \mathbb{E} [\ \mathcal{O} _p \{ \mathbf{D}_1 (\theta^*, n)(\hat \theta- \theta_0), ...,
+\mathbf{D}_p (\theta^*, n)(\hat \theta- \theta_0) \}] \\
+&=\mathrm{var}\{ v_1( \theta_0, n)\} + \mathcal{O} (n^{-2})
 \end{aligned}
-
 $$
 
 $\boldsymbol A \equiv [a_{i,j}]_{i,j=1,...,p^.}$
+
+Colored text: <span style="color:blue">“Vérité dans un temps, erreur dans un autre.”, Charles de Montesquieu</span>.
+
+<span style="background-color:lightgreen"><span style="color:white"> **Some important Info: something**
+</span>
