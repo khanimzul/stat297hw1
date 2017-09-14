@@ -1,17 +1,22 @@
 
 ---
-title: "Homework 1"
-author: "Hanim Zul, Shafiqah Azman, Iffah Mohamad Saufi, Nurlisa Muhamad Fadli"
-date: "September 8, 2017"
+**title**: "Homework 1"
+
+**author**: "Hanim Zul, Shafiqah Azman, Iffah Mohamad Saufi, Nurlisa Muhamad Fadli"
+
+**date**: "September 8, 2017"
+
 output: html_document
+
 bibliography: ref.bib
+
 ---
 
 
 
 **Summary**
 
-The structure of this homework test group members’ understanding and ability to use Rmarkdown and Gitub. Throughout this task, all members use Github as a medium to interact when there is no face-to-face meeting. Upon completing Homework 1, all group members are able to use Rmarkdown efficiently as we have to add video, built references and chunk of code in Rmarkdown and make it as a document.
+The structure of this homework test group members’ understanding and ability to use Rmarkdown and Github. Throughout this task, all members use Github as a medium to interact when there is no face-to-face meeting. Upon completing Homework 1, all group members are able to use Rmarkdown efficiently as we have to add video, built references and chunk of code in Rmarkdown and make it as a document.
 
 **Introducing Group Members**
 
