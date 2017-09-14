@@ -1,10 +1,10 @@
 
 ---
-**title**: "Homework 1"
+title: "Homework 1"
 
-**author**: "Hanim Zul, Shafiqah Azman, Iffah Mohamad Saufi, Nurlisa Muhamad Fadli"
+author: "Hanim Zul, Shafiqah Azman, Iffah Mohamad Saufi, Nurlisa Muhamad Fadli"
 
-**date**: "September 8, 2017"
+date: "September 8, 2017"
 
 output: html_document
 
@@ -14,27 +14,27 @@ bibliography: ref.bib
 
 
 
-<<<<<<< HEAD
-#Introduction
 
-#Group Members
-=======
 **Summary**
 
-The structure of this homework test group members’ understanding and ability to use Rmarkdown and Github. Throughout this task, all members use Github as a medium to interact when there is no face-to-face meeting. Upon completing Homework 1, all group members are able to use Rmarkdown efficiently as we have to add video, built references and chunk of code in Rmarkdown and make it as a document.
+The structure of this homework test group members and understanding and ability to use Rmarkdown and Github. Throughout this task, all members use Github as a medium to interact when there is no face-to-face meeting. Upon completing Homework 1, all group members are able to use Rmarkdown efficiently as we have to add video, built references and chunk of code in Rmarkdown and make it as a document.
 
-**Introducing Group Members**
+#Introduction
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3YUIy53QkmU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="  https://www.youtube.com/embed/3YUIy53QkmU" frameborder="0" allowfullscreen></iframe>
 
-**Introduction**
 
-**Group Members**
->>>>>>> 4612b697d41272d91dd0e3e70e4586fa3ac2b300
 
-*Iffah Mohamad Saufi*
+#Group Members
 
-![The Pennsylvania State University | B.Sc of Statistics | Eberly College of Science | Class of 2020 | ](photo.jpg){width=50%}
+
+###Iffah Mohamad Saufi
+
+<center>![](photo.jpg){width=50%}
+
+The Pennsylvania State University | B.Sc of Statistics | Eberly College of Science | Class of 2020
+
+</center>
 
   * Whenever I'm free, I will watch movies in my laptop. I spent a lot of my time with it and I also love                watching korean drama. Fun fact about me is I am the      8th of my 11th siblings. Also, I love doing outdoor        activities especially         hiking. 
   
@@ -63,10 +63,17 @@ The structure of this homework test group members’ understanding and ability t
 |   |                 |    Tue & Thurs    |
 +---+-----------------+-------------------+
   
-*Shafiqah Azman*
+###Shafiqah Azman
 
-![The Pennsylvania State University | B.Sc of Mathematics | Minor in Statistics |
-Eberly College of Science | Class of 2017 | Member of Mu Sigma Rho | National Statistics Honor Society](20170407_234912.jpg){width=50%}
+<center>
+
+![](20170407_234912.jpg){width=50%}
+
+
+The Pennsylvania State University | B.Sc of Mathematics | Minor in Statistics |
+Eberly College of Science | Class of 2017 | Member of Mu Sigma Rho | National Statistics Honor Society
+
+</center>
 
 
   * I'm a homebody so I spend most of my time at home. I usually watch dramas with     genre law, medical, thriller      and suspense. I also like to learn new languages     and currently I'm learning Korean language. Even though I'm     a homebody , I also enjoy get-together with my close friends either going out to eat or          attending           any events
@@ -98,8 +105,13 @@ Eberly College of Science | Class of 2017 | Member of Mu Sigma Rho | National St
 
 ###Khadijah Hanim Zulhaimi
 
-![The Pennsylvania State University | B.Sc of Mathematics | Minor in Statistics |
-Eberly College of Science | Class of 2018](Capture.PNG){width=50%}
+<center>![](Capture.PNG){width=50%}
+
+
+The Pennsylvania State University | B.Sc of Mathematics | Minor in Statistics |
+Eberly College of Science | Class of 2018
+
+</center>
 
   * People normally called me Hanim, the way to say it is like Honey with "m" at the back. My hobby I guess is the same as my generation,which is surfing internet. I love(a lot) listening to music and do some arts-y stuff or sport at the same time. However, I endorsed sleeping the most. Fun fact about me is I named my guitar "Usop", and treat him like my boyfriend. Oh, and I also run an online business.
 
@@ -131,9 +143,12 @@ Eberly College of Science | Class of 2018](Capture.PNG){width=50%}
 |   |                 |    Tue & Thurs    |
 +---+-----------------+-------------------+
 
-*Nurlisa Muhamad Fadli*
+###Nurlisa Muhamad Fadli
 
-![The Pennsylvania State University | B.Sc of Statistics |  Eberly College of Science | Class of 2017 ](IMG_20160620_223103.jpg){width=50%}
+<center>![](IMG_20160620_223103.jpg){width=50%}
+
+The Pennsylvania State University | B.Sc of Statistics |  Eberly College of Science | Class of 2017
+</center>
 
 * I loved reading so much. There is no reason not to love reading except the material you are reading is cliche or     something you are not interested in. I often find myself reading something related to human body such as 'Human      Atlas' or 'Fruits and Their Benefit'. It makes me understand how our body, a complex system works. 
     This makes me doubt myself for choosing Actuarial Science for my major Hahaha. Fun fact about me is that I hate      beaches. dont take me wrong; i love the scenery but i hate laying there doing nothing.
@@ -210,6 +225,9 @@ Colored text: <span style="color:blue">“Vérité dans un temps, erreur dans un
 </span>
 
 
+
 ###References
 
 (1) @Nelson2000 
+
+https://stackoverflow.com/questions/30610555/hide-shiny-output#comment79373058_30610977
