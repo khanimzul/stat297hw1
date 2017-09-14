@@ -12,21 +12,21 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-##Introduction
+#Introduction
 
-##Group Members
+#Group Members
 
 ###Iffah Mohamad Saufi 
 
-![The Pennsylvania State University | B.Sc of Statistics | Eberly College of Science | Class of 2020 | ](photo.jpg){width=30%}
+![The Pennsylvania State University | B.Sc of Statistics | Eberly College of Science | Class of 2020 | ](photo.jpg){width=50%}
 
   * Whenever I'm free, I will watch movies in my laptop. I spent a lot of my time with it and I also love                watching korean drama. Fun fact about me is I am the      8th of my 11th siblings. Also, I love doing outdoor        activities especially         hiking. 
   
   * **Favorite quote:**
   
-  > Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. - H.Jackson Brown Jr. (1)
+  > Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. - *H.Jackson Brown Jr.* (1)
   
-  * **This is Iffah's schedule for FALL 2017:**
+  * **Iffah's schedule for FALL 2017:**
   
 +---+-----------------+-------------------+
 |   |      Class      |        Time       |
@@ -50,15 +50,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ###Shafiqah Azman
 
 ![The Pennsylvania State University | B.Sc of Mathematics | Minor in Statistics |
-Eberly College of Science | Class of 2017 | Member of Mu Sigma Rho | National Statistics Honor Society](20170407_234912.jpg){width=30%}
+Eberly College of Science | Class of 2017 | Member of Mu Sigma Rho | National Statistics Honor Society](20170407_234912.jpg){width=50%}
 
 
   * I'm a homebody so I spend most of my time at home. I usually watch dramas with     genre law, medical, thriller      and suspense. I also like to learn new languages     and currently I'm learning Korean language. Even though I'm     a homebody , I also enjoy get-together with my close friends either going out to eat or          attending           any events
   * **Favorite quote:** 
   
-  > Happiness is found when you stop comparing yourself to other     people 
+  > Happiness is found when you stop comparing yourself to other people -*Unknown*
   
-  * **This is Shafiqah's schedule for FALL 2017:**
+  * **Shafiqah's schedule for FALL 2017:**
 
 +---+-----------------+-------------------+
 |   |      Class      |        Time       |
@@ -83,21 +83,49 @@ Eberly College of Science | Class of 2017 | Member of Mu Sigma Rho | National St
 ###Khadijah Hanim Zulhaimi
 
 ![The Pennsylvania State University | B.Sc of Mathematics | Minor in Statistics |
-Eberly College of Science | Class of 2018](Capture.PNG){width=30%}
+Eberly College of Science | Class of 2018](Capture.PNG){width=50%}
 
-  * My name is Khadijah Hanim Zulhaimi. People normally called me Hanim. My hobbies are surfing internet, listen to     music, and read fictional books. Fun fact 
+  * People normally called me Hanim, the way to say it is like Honey with "m" at the back. My hobby I guess is the same as my generation,which is surfing internet. I love(a lot) listening to music and do some arts-y stuff or sport at the same time. However, I endorsed sleeping the most. Fun fact about me is I named my guitar "Usop", and treat him like my boyfriend. Oh, and I also run an online business.
+
+ * **Favorite quote:** 
+    
+  > Be not afraid of greatness. Some are born great, some achieve greatness, and some have greatness thrust upon 'em.-*William Shakespeare*
+  
+  * **Hanim's schedule for FALL 2017:**
+  
++---+-----------------+-------------------+
+|   |      Class      |        Time       |
++===+=================+===================+
+| 1 |     STAT 461    |     0905-0955     |
+|   |                 |    Mon,Wed,Fri    |
++---+-----------------+-------------------+
+| 2 |     ARAB 001    |     1010-1100     |
+|   |                 |    Mon,Wed,Fri    |
++---+-----------------+-------------------+
+| 3 |     MATH 312    |     0125-0215     |
+|   |                 |    Mon,Wed,Fri    |
++---+-----------------+-------------------+
+| 4 |     MATH 436    |     0230-0320     |
+|   |                 |    Mon,Wed,Fri    |
++---+-----------------+-------------------+
+| 5 |     MATH 484    |     1035-1150     |
+|   |                 |    Tue & Thurs    |
++---+-----------------+-------------------+
+| 6 |     STAT 297    |     1205-0120     |
+|   |                 |    Tue & Thurs    |
++---+-----------------+-------------------+
 
 ###Nurlisa Muhamad Fadli
 
-![The Pennsylvania State University | B.Sc of Statistics |  Eberly College of Science | Class of 2017 ](IMG_20160620_223103.jpg){width=30%}
+![The Pennsylvania State University | B.Sc of Statistics |  Eberly College of Science | Class of 2017 ](IMG_20160620_223103.jpg){width=50%}
 
 * I loved reading so much. There is no reason not to love reading except the material you are reading is cliche or     something you are not interested in. I often find myself reading something related to human body such as 'Human      Atlas' or 'Fruits and Their Benefit'. It makes me understand how our body, a complex system works. 
     This makes me doubt myself for choosing Actuarial Science for my major Hahaha. Fun fact about me is that I hate      beaches. dont take me wrong; i love the scenery but i hate laying there doing nothing.
   * **Favorite quote:** 
   
-  > Be yourself; everyone else is already taken.
+  > Be yourself; everyone else is already taken. -*Oscar Wilde*
   
-  * **This is Nurlisa's schedule for FALL 2017:**
+  * **Nurlisa's schedule for FALL 2017:**
 
 +---+-----------------+-------------------+
 |   |      Class      |        Time       |
@@ -115,7 +143,7 @@ Eberly College of Science | Class of 2018](Capture.PNG){width=30%}
 |   |                 |    Tue & Thurs    |
 +---+-----------------+-------------------+
 
-##R Markdown Syntax
+#R Markdown Syntax
 
 ##ii)
 ```{r}
@@ -159,8 +187,12 @@ $\boldsymbol A \equiv [a_{i,j}]_{i,j=1,...,p^.}$
 
 Colored text: <span style="color:blue">“Vérité dans un temps, erreur dans un autre.”, Charles de Montesquieu</span>.
 
-<span style="background-color:lightgreen"><span style="color:white"> **Some important Info: something**
+<button data-toggle="collapse" data-target="#SessionInfo">More info</button> <div id="SessionInfo" class="collapse"> Hey there! For your information, you are awesome! </div>
+
+
+<span style="background-color:yellow">**CAUTION: Might cause cringe.**
 </span>
+
 
 ###References
 
