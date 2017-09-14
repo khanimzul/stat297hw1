@@ -15,23 +15,15 @@ The structure of this homework test group members’ understanding and ability t
 
 **Introducing Group Members**
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
-
-<center>
-```{r, echo=FALSE}
-knitr::include_url("https://www.youtube.com/embed/FDomXhSNaHI")
-```
-</center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FDomXhSNaHI" frameborder="0" allowfullscreen></iframe>
 
 
 **Introduction**
 
 **Group Members**
 
-*Iffah Mohamad Saufi *
+*Iffah Mohamad Saufi*
 
 ![The Pennsylvania State University | B.Sc of Statistics | Eberly College of Science | Class of 2020 | ](photo.jpg){width=30%}
 
