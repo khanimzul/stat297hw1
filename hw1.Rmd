@@ -7,16 +7,31 @@ output: html_document
 bibliography: ref.bib
 ---
 
+
+
+**Summary**
+
+The structure of this homework test group members’ understanding and ability to use Rmarkdown and Gitub. Throughout this task, all members use Github as a medium to interact when there is no face-to-face meeting. Upon completing Homework 1, all group members are able to use Rmarkdown efficiently as we have to add video, built references and chunk of code in Rmarkdown and make it as a document.
+
+**Introducing Group Members**
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-##Introduction
+<center>
+```{r, echo=FALSE}
+knitr::include_url("https://www.youtube.com/embed/FDomXhSNaHI")
+```
+</center>
 
-##Group Members
 
-###Iffah Mohamad Saufi 
+**Introduction**
+
+**Group Members**
+
+*Iffah Mohamad Saufi *
 
 ![The Pennsylvania State University | B.Sc of Statistics | Eberly College of Science | Class of 2020 | ](photo.jpg){width=30%}
 
@@ -47,7 +62,7 @@ knitr::opts_chunk$set(echo = TRUE)
 |   |                 |    Tue & Thurs    |
 +---+-----------------+-------------------+
   
-###Shafiqah Azman
+*Shafiqah Azman*
 
 ![The Pennsylvania State University | B.Sc of Mathematics | Minor in Statistics |
 Eberly College of Science | Class of 2017 | Member of Mu Sigma Rho | National Statistics Honor Society](20170407_234912.jpg){width=30%}
@@ -87,7 +102,7 @@ Eberly College of Science | Class of 2018](Capture.PNG){width=30%}
 
   * My name is Khadijah Hanim Zulhaimi. People normally called me Hanim. My hobbies are surfing internet, listen to     music, and read fictional books. Fun fact 
 
-###Nurlisa Muhamad Fadli
+*Nurlisa Muhamad Fadli*
 
 ![The Pennsylvania State University | B.Sc of Statistics |  Eberly College of Science | Class of 2017 ](IMG_20160620_223103.jpg){width=30%}
 
