@@ -1,22 +1,38 @@
 
 ---
-title: "Homework 1"
-author: "Hanim Zul, Shafiqah Azman, Iffah Mohamad Saufi, Nurlisa Muhamad Fadli"
-date: "September 8, 2017"
+**title**: "Homework 1"
+
+**author**: "Hanim Zul, Shafiqah Azman, Iffah Mohamad Saufi, Nurlisa Muhamad Fadli"
+
+**date**: "September 8, 2017"
+
 output: html_document
+
 bibliography: ref.bib
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 
+<<<<<<< HEAD
 #Introduction
 
 #Group Members
+=======
+**Summary**
 
-###Iffah Mohamad Saufi 
+The structure of this homework test group members’ understanding and ability to use Rmarkdown and Github. Throughout this task, all members use Github as a medium to interact when there is no face-to-face meeting. Upon completing Homework 1, all group members are able to use Rmarkdown efficiently as we have to add video, built references and chunk of code in Rmarkdown and make it as a document.
+
+**Introducing Group Members**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3YUIy53QkmU" frameborder="0" allowfullscreen></iframe>
+
+**Introduction**
+
+**Group Members**
+>>>>>>> 4612b697d41272d91dd0e3e70e4586fa3ac2b300
+
+*Iffah Mohamad Saufi*
 
 ![The Pennsylvania State University | B.Sc of Statistics | Eberly College of Science | Class of 2020 | ](photo.jpg){width=50%}
 
@@ -47,7 +63,7 @@ knitr::opts_chunk$set(echo = TRUE)
 |   |                 |    Tue & Thurs    |
 +---+-----------------+-------------------+
   
-###Shafiqah Azman
+*Shafiqah Azman*
 
 ![The Pennsylvania State University | B.Sc of Mathematics | Minor in Statistics |
 Eberly College of Science | Class of 2017 | Member of Mu Sigma Rho | National Statistics Honor Society](20170407_234912.jpg){width=50%}
@@ -115,7 +131,7 @@ Eberly College of Science | Class of 2018](Capture.PNG){width=50%}
 |   |                 |    Tue & Thurs    |
 +---+-----------------+-------------------+
 
-###Nurlisa Muhamad Fadli
+*Nurlisa Muhamad Fadli*
 
 ![The Pennsylvania State University | B.Sc of Statistics |  Eberly College of Science | Class of 2017 ](IMG_20160620_223103.jpg){width=50%}
 
